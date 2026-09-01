@@ -79,11 +79,11 @@ python src/visualize.py
 
 ### 50Ah NMC Cell — 0.5C Discharge Simulation
 
-![Cell discharge simulation](assets/screenshots/cell_discharge.png)
+![Cell discharge simulation](screenshots/cell_discharge.png)
 
 ### 14S3P Pack — 0.5C Discharge with Cell Balancing
 
-![Pack discharge simulation](assets/screenshots/pack_discharge.png)
+![Pack discharge simulation](screenshots/pack_discharge.png)
 ---
 
 ## 📊 Model Features
